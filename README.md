@@ -31,12 +31,20 @@
     <img height="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=6f2cf5">
   <a/>
     
+  <a href="https://firebase.google.com/">
+    <img height="50" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png">
+  <a/>
+
   <a href="https://www.w3schools.com/sql/sql_intro.asp#:~:text=What%20is%20SQL%3F,for%20Standardization%20(ISO)%20in%201987">
     <img height="50" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
   <a/>
     
   <a href="https://www.postman.com/">
     <img height="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png">
+  <a/>
+
+  <a href="https://material.angular.io/">
+    <img height="50" src="https://angular.io/generated/images/marketing/concept-icons/material.png">
   <a/>
    
   <a href="https://getbootstrap.com/">
