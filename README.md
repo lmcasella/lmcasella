@@ -9,15 +9,49 @@
 ## Languages and Tools
 
 <p align="left">
-<img height="50" src="https://icongr.am/devicon/html5-original.svg?size=128&color=6f2cf5">
-<img height="50" src="https://icongr.am/devicon/css3-original.svg?size=128&color=6f2cf5">
-<img height="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=6f2cf5">
-<img height="50" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=6f2cf5">
-<img height="50" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
-<img height="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=6f2cf5">
-<img height="50" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6f2cf5">
-<img height="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=6f2cf5">
-<img height="50" src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png">
+  <a href="https://www.w3schools.com/html/">
+    <img height="50" src="https://icongr.am/devicon/html5-original.svg?size=128&color=6f2cf5">
+  </a>
+
+  <a href="https://www.w3schools.com/css/">
+    <img height="50" src="https://icongr.am/devicon/css3-original.svg?size=128&color=6f2cf5">
+  <a/>
+    
+  <a href="https://www.w3schools.com/js/default.asp">
+    <img height="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=6f2cf5">
+  <a/>
+  
+  <a href="https://www.typescriptlang.org/">
+    <img height="50" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=6f2cf5">
+  <a/>
+   
+  <a href="https://angular.io/">
+    <img height="50" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+  <a/>
+    
+  <a href="https://es.reactjs.org/">
+    <img height="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=6f2cf5">
+  <a/>
+    
+  <a href="https://www.w3schools.com/sql/sql_intro.asp#:~:text=What%20is%20SQL%3F,for%20Standardization%20(ISO)%20in%201987">
+    <img height="50" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
+  <a/>
+    
+  <a href="https://www.postman.com/">
+    <img height="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png">
+  <a/>
+   
+  <a href="https://getbootstrap.com/">
+    <img height="50" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6f2cf5">
+  <a/>
+    
+  <a href="https://git-scm.com/">
+    <img height="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=6f2cf5">
+  <a/>
+    
+  <a href="https://www.figma.com/">
+    <img height="50" src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png">
+  <a/>
 </p>
 
 </br>
