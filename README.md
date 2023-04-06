@@ -17,7 +17,7 @@
 <img height="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=6f2cf5">
 <img height="50" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6f2cf5">
 <img height="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=6f2cf5">
-<img height="50" src="https://assets.stickpng.com/thumbs/62c6bc3deee9410fe137d920.png">
+<img height="50" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format">
 </p>
 
 </br>
