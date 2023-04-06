@@ -4,8 +4,6 @@
 - 🌱 I'm currently strengthening my knowledge in Angular and Typescript.
 - 📫 How to reach me: lautaromcasella@gmail.com or [LinkedIn](https://www.linkedin.com/in/lautaro-casella-b990a6216/)
 
-</br>
-
 ## Languages and Tools
 
 <p align="left">
@@ -53,10 +51,15 @@
     <img height="50" src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png">
   <a/>
 </p>
+    
+## Projects
+    
+[Cartoon Network Multigames](https://cn-multigames.vercel.app/)
 
-</br>
+    
+## Github Languages Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lmcasella&show_icons=true&locale=en&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lmcasella&show_icons=true&locale=en&layout=compact&theme=tokyonight">
 
 <!--
 **lmcasella/lmcasella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
