@@ -24,7 +24,7 @@
   <a/>
    
   <a href="https://angular.io/">
-    <img height="50" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+    <img height="50" src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png">
   <a/>
     
   <a href="https://es.reactjs.org/">
