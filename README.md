@@ -1,4 +1,4 @@
-## Hello there! 👋, I'm Lautaro Casella
+## Hello there! I'm Lautaro Casella 👋
 
 - 🔭 I’m currently looking for a job.
 - 🌱 I'm currently strengthening my knowledge in Angular and Typescript.
