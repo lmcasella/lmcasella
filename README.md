@@ -24,7 +24,7 @@
   <a/>
    
   <a href="https://angular.io/">
-    <img height="50" src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png">
+    <img height="50" src="https://i2.wp.com/makeseleniumeasy.com/wp-content/uploads/2019/04/angular-icon-1-logo-png-transparent.png?fit=640%2C680">
   <a/>
     
   <a href="https://es.reactjs.org/">
