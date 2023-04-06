@@ -7,14 +7,14 @@
 ## Languages and Tools
 
 <p align="left">
-<img height="100" src="https://icongr.am/devicon/html5-original.svg?size=128&color=6f2cf5">
-<img height="70" src="https://icongr.am/devicon/css3-original.svg?size=128&color=6f2cf5">
-<img height="100" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=6f2cf5">
-<img height="100" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=6f2cf5">
-<img height="100" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
-<img height="100" src="https://icongr.am/devicon/react-original.svg?size=128&color=6f2cf5">
-<img height="100" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6f2cf5">
-<img height="100" src="https://icongr.am/devicon/git-original.svg?size=128&color=6f2cf5">
+<img height="50" src="https://icongr.am/devicon/html5-original.svg?size=128&color=6f2cf5">
+<img height="50" src="https://icongr.am/devicon/css3-original.svg?size=128&color=6f2cf5">
+<img height="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=6f2cf5">
+<img height="50" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=6f2cf5">
+<img height="50" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+<img height="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=6f2cf5">
+<img height="50" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6f2cf5">
+<img height="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=6f2cf5">
 </p>
 
 <!--
