@@ -7,18 +7,15 @@
 ## Languages and Tools
 
 <p align="left">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs/reactjs.png">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postman/postman.png">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png">
- </p>
+<img height="100" src="https://icongr.am/devicon/html5-original.svg?size=128&color=6f2cf5">
+<img height="70" src="https://icongr.am/devicon/css3-original.svg?size=128&color=6f2cf5">
+<img height="100" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=6f2cf5">
+<img height="100" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=6f2cf5">
+<img height="100" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+<img height="100" src="https://icongr.am/devicon/react-original.svg?size=128&color=6f2cf5">
+<img height="100" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6f2cf5">
+<img height="100" src="https://icongr.am/devicon/git-original.svg?size=128&color=6f2cf5">
+</p>
 
 <!--
 **lmcasella/lmcasella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
