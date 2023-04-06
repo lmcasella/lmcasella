@@ -57,13 +57,13 @@
 [Cartoon Network Multigames](https://cn-multigames.vercel.app/)
 
 <p align="left">
-  <img height="957" src="assets/cn-multigames/cn-home.png">
-  <img height="957" src="assets/cn-multigames/cn-memotest.png">
+  <img width="957" src="assets/cn-multigames/cn-home.png">
+  <img width="957" src="assets/cn-multigames/cn-memotest.png">
 </p>
 
 <p align="left">
-  <img height="957" src="assets/cn-multigames/cn-memotest-2.png">
-  <img height="957" src="assets/cn-multigames/cn-memotest-win.png">
+  <img width="957" src="assets/cn-multigames/cn-memotest-2.png">
+  <img width="957" src="assets/cn-multigames/cn-memotest-win.png">
 </p>
     
 ## Github Languages Stats
