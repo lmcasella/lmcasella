@@ -17,7 +17,7 @@
 <img height="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=6f2cf5">
 <img height="50" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6f2cf5">
 <img height="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=6f2cf5">
-<img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fblog%2Ffigmas-new-icon%2F&psig=AOvVaw1vdw66t03cVHZjQe-KfvRR&ust=1680839654579000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODGmuWtlP4CFQAAAAAdAAAAABAE">
+<img height="50" src="https://assets.stickpng.com/thumbs/62c6bc3deee9410fe137d920.png">
 </p>
 
 </br>
