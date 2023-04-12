@@ -1,8 +1,8 @@
 ## Hello there! I'm Lautaro Casella 👋
 
-- 🔭 I’m currently looking for a job.
-- 🌱 I'm currently strengthening my knowledge in Angular and Typescript.
-- 📫 How to reach me: lautaromcasella@gmail.com or [LinkedIn](https://www.linkedin.com/in/lautaro-casella-b990a6216/)
+-   🔭 I’m currently looking for a job.
+-   🌱 I'm currently strengthening my knowledge in Angular and Typescript.
+-   📫 How to reach me: lautaromcasella@gmail.com or [LinkedIn](https://www.linkedin.com/in/lautaro-casella-b990a6216/)
 
 ## Languages and Tools
 
@@ -25,6 +25,10 @@
    
   <a href="https://angular.io/">
     <img height="50" src="https://i2.wp.com/makeseleniumeasy.com/wp-content/uploads/2019/04/angular-icon-1-logo-png-transparent.png?fit=640%2C680">
+  <a/>
+
+  <a href="https://ngrx.io/">
+    <img height="50" src="https://seeklogo.com/images/N/ngrx-logo-D484A6B4B3-seeklogo.com.png">
   <a/>
     
   <a href="https://es.reactjs.org/">
