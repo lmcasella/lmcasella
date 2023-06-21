@@ -68,7 +68,7 @@
     
 [Cartoon Network Multigames](https://cn-multigames.vercel.app/)
 </br>
-[Repositorio](https://github.com/lmcasella/cn-multigames)
+[Repository](https://github.com/lmcasella/cn-multigames)
 
 <p align="left">
   <img width="400" src="assets/cn-multigames/cn-home.png">
@@ -82,7 +82,7 @@
 
 [Countries App](https://info-countries-app.vercel.app/)
 </br>
-[Repositorio](https://github.com/lmcasella/countries)
+[Repository](https://github.com/lmcasella/countries)
 
 <p align="left">
   <img width="400" src="assets/cn-multigames/cn-home.png">
