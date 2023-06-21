@@ -79,6 +79,15 @@
   <img width="400" src="assets/cn-multigames/cn-memotest-2.png">
   <img width="400" src="assets/cn-multigames/cn-memotest-win.png">
 </p>
+
+[Countries App](https://info-countries-app.vercel.app/)
+</br>
+[Repositorio](https://github.com/lmcasella/countries)
+
+<p align="left">
+  <img width="400" src="assets/cn-multigames/cn-home.png">
+  <img width="400" src="assets/cn-multigames/cn-memotest.png">
+</p>
     
 ## Github Languages Stats
 
