@@ -85,8 +85,8 @@
 [Repository](https://github.com/lmcasella/countries)
 
 <p align="left">
-  <img width="400" src="assets/cn-multigames/cn-home.png">
-  <img width="400" src="assets/cn-multigames/cn-memotest.png">
+  <img width="400" src="assets/countries/buscar-por-capital.png">
+  <img width="400" src="assets/countries/info-pais.png">
 </p>
     
 ## Github Languages Stats
