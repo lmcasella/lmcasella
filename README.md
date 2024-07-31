@@ -1,4 +1,4 @@
-## Hello there! 👋 I'm Lautaro Casella
+# Hello there! 👋 I'm Lautaro Casella
 
 ## About Me
 -   🚀 I'm a Software Developer and a University Technician in Computer Science.
