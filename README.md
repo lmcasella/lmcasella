@@ -98,7 +98,7 @@
 
 ## Contact
 - **Email:** lautaromcasella@gmail.com
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/lautaro-casella-b990a6216/)
+- **LinkedIn:** [linkedin.com/in/lautaro-casella](https://www.linkedin.com/in/lautaro-casella-b990a6216/)
 
 <!--
 **lmcasella/lmcasella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
