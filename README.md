@@ -1,8 +1,11 @@
-## Hello there! I'm Lautaro Casella 👋
+## Hello there! 👋 I'm Lautaro Casella
 
--   🔭 I’m currently looking for a job.
--   🌱 I'm currently strengthening my knowledge in Angular and Typescript.
--   📫 How to reach me: lautaromcasella@gmail.com or [LinkedIn](https://www.linkedin.com/in/lautaro-casella-b990a6216/)
+## About Me
+-   🚀 I'm a Software Developer and a University Technician in Computer Science.
+-   🎓 I'm currently studying for a University Degree in Video Game Programming.
+<!--
+-   ✉️ How to reach me: lautaromcasella@gmail.com or [LinkedIn](https://www.linkedin.com/in/lautaro-casella-b990a6216/)
+-->
 
 ## Languages and Tools
 
@@ -92,6 +95,10 @@
 ## Github Languages Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lmcasella&show_icons=true&locale=en&layout=compact&theme=tokyonight">
+
+## Contact
+- **Email:** lautaromcasella@gmail.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/lautaro-casella-b990a6216/)
 
 <!--
 **lmcasella/lmcasella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
