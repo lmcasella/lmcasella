@@ -5,7 +5,6 @@
 ## 👨‍💻 About Me
 - 🚀 I'm a **Software Developer** and a University Technician in Computer Science.
 - 🎓 I'm currently studying for a University Degree in **Video Game Programming**.
-- 💡 I combine clean software architecture principles with game development to create scalable and performant experiences.
 - 📫 How to reach me: lautaromcasella@gmail.com or [LinkedIn](https://www.linkedin.com/in/lautaro-casella-b990a6216/)
 
 ---
