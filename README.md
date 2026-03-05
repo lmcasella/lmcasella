@@ -39,6 +39,7 @@ Here you can see my projects focused on mechanics, AI and optimization.
 
 | 🗡️ Hacia las Profundidades | 👾 Cyber Survivors | 🚀 Star Attack |
 | :---: | :---: | :---: |
+| <img src="assets/depths_gameplay.gif" width="250"> | <img src="assets/cybersurvivors_gameplay.gif" width="250"> | <img src="assets/starattack_gameplay.gif" width="250"> |
 | A 2D top-down Roguelike Dungeon Crawler featuring dynamic room clearing, ability progression, and Event-Based Architecture. | A bullet-heaven arena survival built natively in Pixi.js. Features a custom Spatial Hash algorithm for highly optimized collisions. | An arcade space shoot 'em up with escalating wave difficulty. Weapon systems built using the Strategy Pattern via Scriptable Objects. |
 | **Stack:** Unity, C# | **Stack:** JS, Pixi.js | **Stack:** Unity, C# |
 | [🔗 Repository](https://github.com/lmcasella/roguelike-game) <br> [🕹️ Play on itch.io](https://kezgan.itch.io/hacia-las-profundidades) | [🔗 Repository](https://github.com/lmcasella/cyber-survivors) <br> [🕹️ Play on itch.io](#) | [🔗 Repository](https://github.com/lmcasella/star-attack) <br> [🕹️ Play on itch.io](https://kezgan.itch.io/star-attack) |
@@ -73,8 +74,3 @@ A web application to search and explore detailed information about countries, ut
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lmcasella)]
