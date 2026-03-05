@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Lautaro Casella
 
-### Software Developer & Game Programmer 👾
+### Software Developer & Game Development student
 
 ## 👨‍💻 About Me
 - 🚀 I'm a **Software Developer** and a University Technician in Computer Science.
@@ -33,7 +33,7 @@
 
 ## 🎮 Game Development Projects
 
-Aquí podés ver mis proyectos enfocados en mecánicas, IA y optimización.
+Here you can see my projects focused on mechanics, AI and optimization.
 
 | 🗡️ Hacia las Profundidades | 👾 Cyber Survivors | 🚀 Star Attack |
 | :---: | :---: | :---: |
