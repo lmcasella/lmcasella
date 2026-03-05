@@ -77,6 +77,4 @@ A web application to search and explore detailed information about countries, ut
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lmcasella&show_icons=true&locale=en&layout=compact&theme=tokyonight">
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lmcasella)](https://github.com/lmcasella/github-readme-stats)
