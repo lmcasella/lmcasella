@@ -3,6 +3,7 @@
 ### Software Developer & Game Development student
 
 ## 👨‍💻 About Me
+
 - 🚀 I'm a **Software Developer** and a University Technician in Computer Science.
 - 🎓 I'm currently studying for a University Degree in **Video Game Programming**.
 - 📫 How to reach me: lautaromcasella@gmail.com or [LinkedIn](https://www.linkedin.com/in/lautaro-casella-b990a6216/)
@@ -37,19 +38,25 @@
 
 Here you can see my projects focused on mechanics, AI and optimization.
 
-| 🗡️ Hacia las Profundidades | 👾 Cyber Survivors | 🚀 Star Attack |
-| :---: | :---: | :---: |
-| <img src="assets/depths_gameplay.gif" width="250"> | <img src="assets/starattack_gameplay.gif" width="250"> | <img src="assets/cybersurvivors_gameplay.gif" width="250"> |
-| A 2D top-down Roguelike Dungeon Crawler featuring dynamic room clearing, ability progression, and Event-Based Architecture. | An arcade space shoot 'em up with escalating wave difficulty. Weapon systems built using the Strategy Pattern via Scriptable Objects. | A bullet-heaven arena survival built natively in Pixi.js. Features a custom Spatial Hash algorithm for highly optimized collisions. |
-| **Stack:** Unity, C# | **Stack:** Unity, C# | **Stack:** JS, Pixi.js |
-| [🔗 Repository](https://github.com/lmcasella/roguelike-game) <br> [🕹️ Play on itch.io](https://kezgan.itch.io/hacia-las-profundidades) | [🔗 Repository](https://github.com/lmcasella/star-attack) <br> [🕹️ Play on itch.io](https://kezgan.itch.io/star-attack) | [🔗 Repository](https://github.com/lmcasella/cyber-survivors) <br> [🕹️ Play on itch.io](#) |
+|                                                        🗡️ Hacia las Profundidades                                                        |                                                          👾 Cyber Survivors                                                           | 🚀 Star Attack |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|                                            <img src="assets/depths_gameplay.gif" width="250">                                            |                                        <img src="assets/starattack_gameplay.gif" width="250">                                         |
+|                                     <!-- <img src="assets/cybersurvivors_gameplay.gif" width="250">                                      |                                                                  -->                                                                  |
+|       A 2D top-down Roguelike Dungeon Crawler featuring dynamic room clearing, ability progression, and Event-Based Architecture.        | An arcade space shoot 'em up with escalating wave difficulty. Weapon systems built using the Strategy Pattern via Scriptable Objects. |
+| <!-- A bullet-heaven arena survival built natively in Pixi.js. Features a custom Spatial Hash algorithm for highly optimized collisions. |                                                                  -->                                                                  |
+|                                                           **Stack:** Unity, C#                                                           |                                                         **Stack:** Unity, C#                                                          |
+|                                                       <!-- **Stack:** JS, Pixi.js                                                        |                                                                  -->                                                                  |
+|  [🔗 Repository](https://github.com/lmcasella/roguelike-game) <br> [🕹️ Play on itch.io](https://kezgan.itch.io/hacia-las-profundidades)  |        [🔗 Repository](https://github.com/lmcasella/star-attack) <br> [🕹️ Play on itch.io](https://kezgan.itch.io/star-attack)        |
+|                     <!-- [🔗 Repository](https://github.com/lmcasella/cyber-survivors) <br> [🕹️ Play on itch.io](#)                      |                                                                  -->                                                                  |
 
 ---
 
 ## 💻 Software & Web Projects
 
 ### 📺 CN Multigames
+
 A responsive web platform featuring classic-style mini-games.
+
 - [Live Demo](https://cn-multigames.vercel.app/) | [Repository](https://github.com/lmcasella/cn-multigames)
 
 <table>
@@ -64,7 +71,9 @@ A responsive web platform featuring classic-style mini-games.
 </table>
 
 ### 🌎 Countries App
+
 A web application to search and explore detailed information about countries, utilizing external REST APIs.
+
 - [Live Demo](https://info-countries-app.vercel.app/) | [Repository](https://github.com/lmcasella/countries)
 
 <table>
@@ -73,4 +82,3 @@ A web application to search and explore detailed information about countries, ut
     <td><img width="400" src="assets/countries/info-pais.png" alt="Detail view"></td>
   </tr>
 </table>
-
