@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-**Game Development & Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
+**Game Development & Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend, DB & Tools:** ![.Net Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -39,16 +39,16 @@ Here you can see my projects focused on mechanics, AI and optimization.
 
 | 🗡️ Hacia las Profundidades | 👾 Cyber Survivors | 🚀 Star Attack |
 | :---: | :---: | :---: |
-| <img src="assets/depths_gameplay.gif" width="250"> | <img src="assets/cybersurvivors_gameplay.gif" width="250"> | <img src="assets/starattack_gameplay.gif" width="250"> |
-| A 2D top-down Roguelike Dungeon Crawler featuring dynamic room clearing, ability progression, and Event-Based Architecture. | A bullet-heaven arena survival built natively in Pixi.js. Features a custom Spatial Hash algorithm for highly optimized collisions. | An arcade space shoot 'em up with escalating wave difficulty. Weapon systems built using the Strategy Pattern via Scriptable Objects. |
-| **Stack:** Unity, C# | **Stack:** JS, Pixi.js | **Stack:** Unity, C# |
-| [🔗 Repository](https://github.com/lmcasella/roguelike-game) <br> [🕹️ Play on itch.io](https://kezgan.itch.io/hacia-las-profundidades) | [🔗 Repository](https://github.com/lmcasella/cyber-survivors) <br> [🕹️ Play on itch.io](#) | [🔗 Repository](https://github.com/lmcasella/star-attack) <br> [🕹️ Play on itch.io](https://kezgan.itch.io/star-attack) |
+| <img src="assets/depths_gameplay.gif" width="250"> | <img src="assets/starattack_gameplay.gif" width="250"> | <img src="assets/cybersurvivors_gameplay.gif" width="250"> |
+| A 2D top-down Roguelike Dungeon Crawler featuring dynamic room clearing, ability progression, and Event-Based Architecture. | An arcade space shoot 'em up with escalating wave difficulty. Weapon systems built using the Strategy Pattern via Scriptable Objects. | A bullet-heaven arena survival built natively in Pixi.js. Features a custom Spatial Hash algorithm for highly optimized collisions. |
+| **Stack:** Unity, C# | **Stack:** Unity, C# | **Stack:** JS, Pixi.js |
+| [🔗 Repository](https://github.com/lmcasella/roguelike-game) <br> [🕹️ Play on itch.io](https://kezgan.itch.io/hacia-las-profundidades) | [🔗 Repository](https://github.com/lmcasella/star-attack) <br> [🕹️ Play on itch.io](https://kezgan.itch.io/star-attack) | [🔗 Repository](https://github.com/lmcasella/cyber-survivors) <br> [🕹️ Play on itch.io](#) |
 
 ---
 
 ## 💻 Software & Web Projects
 
-### 📺 Cartoon Network Multigames
+### 📺 CN Multigames
 A responsive web platform featuring classic-style mini-games.
 - [Live Demo](https://cn-multigames.vercel.app/) | [Repository](https://github.com/lmcasella/cn-multigames)
 
