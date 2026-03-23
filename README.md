@@ -49,6 +49,20 @@ Here you can see my projects focused on mechanics, AI and optimization.
 
 ## 💻 Software & Web Projects
 
+### 🏛️ Portal de Datos (Procesamiento de Pagos Municipales)
+A full-stack system designed to process, store, and display municipal tax payments. It features an automated background worker for parsing files and a secure REST API for the client interface.
+- [Repository](https://github.com/lmcasella/portal-datos)
+
+**Key Features & Architecture:**
+- **Clean Architecture:** Strictly decoupled layers (Domain, Application, Infrastructure, Web API) for maintainability.
+- **Background Worker Service:** An automated .NET worker that detects and processes incoming payment files (TXT and Excel) using the **Factory Pattern**.
+- **High Performance:** Implemented **Dapper** (Micro-ORM) and the **Repository Pattern** for lightning-fast SQL Server database operations.
+- **Security & UI:** JWT-based authentication and a responsive **React.js** frontend managing global state with Zustand.
+
+**Stack:** `.NET Core` `C#` `Dapper` `SQL Server` `React.js` `JWT`
+
+<br>
+
 ### 📺 CN Multigames
 
 A responsive web platform featuring classic-style mini-games.
